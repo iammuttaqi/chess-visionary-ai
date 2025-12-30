@@ -1,0 +1,8 @@
+{
+  "name": "Chess Visionary AI",
+  "description": "An AI-powered chess assistant that analyzes board screenshots to suggest the best moves and provides conversational voice guidance using Gemini Live.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
